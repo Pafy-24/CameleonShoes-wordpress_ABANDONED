@@ -1,0 +1,10 @@
+[[25-Apr-2021 18:54:48 UTC] Astra Addon: Batch Process Started!
+[25-Apr-2021 18:54:48 UTC] Astra Addon: Queuing 2.6.0 - astra_addon_header_css_optimizations
+[25-Apr-2021 18:54:48 UTC] Astra Addon: Queuing 3.0.0 - astra_addon_clear_assets_cache
+[25-Apr-2021 18:54:48 UTC] Astra Addon: Queuing 3.3.0 - astra_addon_clear_assets_cache
+[25-Apr-2021 18:54:48 UTC] Astra Addon: Queuing 3.3.2 - astra_addon_clear_assets_cache
+[25-Apr-2021 18:54:50 UTC] Astra Addon: DB version updated!
+[25-Apr-2021 18:54:50 UTC] Astra Addon: Batch Process Completed!
+[25-Apr-2021 19:07:41 UTC] PHP Deprecated:  wp_no_robots este <strong>învechită</strong> din versiunea 5.7.0! Folosește wp_robots_no_robots() în loc. in /home1/cameleo8/public_html/wp-includes/functions.php on line 4861
+[25-Apr-2021 19:07:54 UTC] PHP Deprecated:  wp_no_robots este <strong>învechită</strong> din versiunea 5.7.0! Folosește wp_robots_no_robots() în loc. in /home1/cameleo8/public_html/wp-includes/functions.php on line 4861
+[25-Apr-2021 19:59:06 UTC] PHP Deprecated:  wp_no_robots este <strong>învechită</strong> din versiunea 5.7.0! Folosește wp_robots_no_robots() în loc. in /home1/cameleo8/public_html/wp-includes/functions.php on line 4861
